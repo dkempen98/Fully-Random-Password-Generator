@@ -1,5 +1,7 @@
 # Password Generator
 
+Link to the tool: https://dkempen98.github.io/Password-Generator/
+
 ## Description
 
 PRIMARY GOAL: Generate passwords that follow set criteria
