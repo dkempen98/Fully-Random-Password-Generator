@@ -1,6 +1,6 @@
 # Password Generator
 
-Link to the tool: https://dkempen98.github.io/Password-Generator/
+Link to the tool: https://dkempen98.github.io/Fully-Random-Password-Generator/
 
 ## Description
 
